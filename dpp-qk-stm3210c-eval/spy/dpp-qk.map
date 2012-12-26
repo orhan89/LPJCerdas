@@ -1,0 +1,1934 @@
+Archive member included because of file (symbol)
+
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+                              spy/table.o (QHsm_top)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+                              spy/philo.o (QActive_postFIFO)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+                              spy/table.o (QActive_subscribe)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+                              spy/bsp.o (QF_getVersion)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+                              spy/table.o (QF_new_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+                              spy/main.o (QF_poolInit)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+                              spy/main.o (QF_psInit)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+                              spy/table.o (QF_publish)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o) (QF_div8Lkup)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+                              spy/bsp.o (QF_tick)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o) (QMPool_get)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o) (QMPool_init)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+                              spy/philo.o (QTimeEvt_ctor)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+                              spy/philo.o (QTimeEvt_arm_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+                              spy/main.o (QF_init)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o) (QK_schedPrio_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o) (QK_ceilingPrio_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+                              spy/bsp.o (QS_initBuf)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+                              spy/bsp.o (QS_u8_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+                              spy/bsp.o (QS_getByte)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+                              spy/bsp.o (QS_str)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o) (QHsm_init)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o) (QHsm_dispatch)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o) (QActive_get_)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o) (QEQueue_init)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o) (QF_gc)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o) (QF_log2Lkup)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o) (QMPool_put)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o) (QK_init)
+D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+                              D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o) (QEP_reservedEvt_)
+c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+                              spy/startup_stm32f10x_cl.o (__libc_init_array)
+
+Discarded input sections
+
+ .ARM.attributes
+                0x00000000       0x2b c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x08000000         0x00040000         xr
+RAM              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD spy/main.o
+LOAD spy/table.o
+LOAD spy/philo.o
+LOAD spy/bsp.o
+LOAD spy/no_heap.o
+LOAD spy/startup_stm32f10x_cl.o
+LOAD spy/system_stm32f10x.o
+LOAD spy/stm32_eval.o
+LOAD spy/stm3210c_eval_lcd.o
+LOAD spy/stm3210c_eval_ioe.o
+LOAD spy/misc.o
+LOAD spy/stm32f10x_adc.o
+LOAD spy/stm32f10x_bkp.o
+LOAD spy/stm32f10x_can.o
+LOAD spy/stm32f10x_crc.o
+LOAD spy/stm32f10x_dac.o
+LOAD spy/stm32f10x_dbgmcu.o
+LOAD spy/stm32f10x_dma.o
+LOAD spy/stm32f10x_exti.o
+LOAD spy/stm32f10x_flash.o
+LOAD spy/stm32f10x_fsmc.o
+LOAD spy/stm32f10x_gpio.o
+LOAD spy/stm32f10x_i2c.o
+LOAD spy/stm32f10x_iwdg.o
+LOAD spy/stm32f10x_pwr.o
+LOAD spy/stm32f10x_rcc.o
+LOAD spy/stm32f10x_rtc.o
+LOAD spy/stm32f10x_sdio.o
+LOAD spy/stm32f10x_spi.o
+LOAD spy/stm32f10x_tim.o
+LOAD spy/stm32f10x_usart.o
+LOAD spy/stm32f10x_wwdg.o
+LOAD D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a
+                0x00000400                STACK_SIZE = 0x400
+                0x00000000                HEAP_SIZE = 0x0
+
+.isr_vector     0x08000000      0x154
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x154 spy/startup_stm32f10x_cl.o
+                0x08000000                g_pfnVectors
+                0x08000154                . = ALIGN (0x4)
+
+.text           0x08000154     0xc404
+                0x08000154                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000154      0x22c spy/main.o
+                0x08000154                main
+ .text          0x08000380      0x6c0 spy/table.o
+                0x080009fc                Table_ctor
+ .text          0x08000a40      0x668 spy/philo.o
+                0x08001068                Philo_ctor
+ .text          0x080010a8      0x740 spy/bsp.o
+                0x080010a8                QF_onStartup
+                0x0800113c                QF_onCleanup
+                0x08001140                QK_onIdle
+                0x08001184                Q_onAssert
+                0x08001188                assert_failed
+                0x08001190                BSP_displayPaused
+                0x08001194                BSP_random
+                0x080011b4                BSP_randomSeed
+                0x080011c0                BSP_terminate
+                0x080011c4                QS_onStartup
+                0x080013c4                QS_onCleanup
+                0x080013c8                QS_onGetTime
+                0x08001404                BSP_displayPhilStat
+                0x08001478                EXTI0_IRQHandler
+                0x08001570                SysTick_Handler
+                0x08001664                QS_onFlush
+                0x0800168c                BSP_init
+ .text          0x080017e8       0x44 spy/no_heap.o
+                0x080017e8                malloc
+                0x08001800                free
+                0x08001814                calloc
+ .text          0x0800182c       0xac spy/startup_stm32f10x_cl.o
+                0x0800182c                EXTI2_IRQHandler
+                0x0800182c                TIM8_TRG_COM_IRQHandler
+                0x0800182c                TIM8_CC_IRQHandler
+                0x0800182c                DebugMon_Handler
+                0x0800182c                TIM1_CC_IRQHandler
+                0x0800182c                TIM6_IRQHandler
+                0x0800182c                PVD_IRQHandler
+                0x0800182c                SDIO_IRQHandler
+                0x0800182c                NMI_Handler
+                0x0800182c                CAN2_RX1_IRQHandler
+                0x0800182c                EXTI3_IRQHandler
+                0x0800182c                I2C2_EV_IRQHandler
+                0x0800182c                UsageFault_Handler
+                0x0800182c                CAN2_SCE_IRQHandler
+                0x0800182c                ADC1_2_IRQHandler
+                0x0800182c                SPI1_IRQHandler
+                0x0800182c                TAMPER_IRQHandler
+                0x0800182c                CAN2_RX0_IRQHandler
+                0x0800182c                TIM8_UP_IRQHandler
+                0x0800182c                DMA2_Channel2_IRQHandler
+                0x0800182c                DMA1_Channel4_IRQHandler
+                0x0800182c                USBWakeUp_IRQHandler
+                0x0800182c                USART3_IRQHandler
+                0x0800182c                RTC_IRQHandler
+                0x0800182c                DMA1_Channel7_IRQHandler
+                0x0800182c                I2C1_ER_IRQHandler
+                0x0800182c                CAN1_RX1_IRQHandler
+                0x0800182c                UART5_IRQHandler
+                0x0800182c                ADC3_IRQHandler
+                0x0800182c                TIM4_IRQHandler
+                0x0800182c                DMA2_Channel1_IRQHandler
+                0x0800182c                I2C1_EV_IRQHandler
+                0x0800182c                DMA1_Channel6_IRQHandler
+                0x0800182c                UART4_IRQHandler
+                0x0800182c                TIM3_IRQHandler
+                0x0800182c                RCC_IRQHandler
+                0x0800182c                TIM1_TRG_COM_IRQHandler
+                0x0800182c                DMA1_Channel1_IRQHandler
+                0x0800182c                EXTI15_10_IRQHandler
+                0x0800182c                TIM7_IRQHandler
+                0x0800182c                CAN2_TX_IRQHandler
+                0x0800182c                TIM5_IRQHandler
+                0x0800182c                EXTI9_5_IRQHandler
+                0x0800182c                ETH_WKUP_IRQHandler
+                0x0800182c                SPI2_IRQHandler
+                0x0800182c                MemManage_Handler
+                0x0800182c                DMA2_Channel5_IRQHandler
+                0x0800182c                DMA1_Channel5_IRQHandler
+                0x0800182c                EXTI4_IRQHandler
+                0x0800182c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800182c                USB_HP_CAN1_TX_IRQHandler
+                0x0800182c                DMA1_Channel3_IRQHandler
+                0x0800182c                FSMC_IRQHandler
+                0x0800182c                ETH_IRQHandler
+                0x0800182c                TIM1_UP_IRQHandler
+                0x0800182c                WWDG_IRQHandler
+                0x0800182c                TIM2_IRQHandler
+                0x0800182c                TIM1_BRK_IRQHandler
+                0x0800182c                EXTI1_IRQHandler
+                0x0800182c                RTCAlarm_IRQHandler
+                0x0800182c                DMA2_Channel4_5_IRQHandler
+                0x0800182c                USART2_IRQHandler
+                0x0800182c                I2C2_ER_IRQHandler
+                0x0800182c                DMA1_Channel2_IRQHandler
+                0x0800182c                TIM8_BRK_IRQHandler
+                0x0800182c                CAN1_SCE_IRQHandler
+                0x0800182c                FLASH_IRQHandler
+                0x0800182c                BusFault_Handler
+                0x0800182c                USART1_IRQHandler
+                0x0800182c                Spurious_Handler
+                0x0800182c                OTG_FS_IRQHandler
+                0x0800182c                SPI3_IRQHandler
+                0x0800182c                DMA2_Channel3_IRQHandler
+                0x08001848                Reset_Handler
+                0x080018d4                _init
+ .text          0x080018d8      0x168 spy/system_stm32f10x.o
+                0x080018d8                SystemInit
+ .text          0x08001a40      0x218 spy/stm32_eval.o
+                0x08001a40                STM_EVAL_LEDInit
+                0x08001a8c                STM_EVAL_LEDOn
+                0x08001aac                STM_EVAL_LEDOff
+                0x08001acc                STM_EVAL_LEDToggle
+                0x08001af0                STM_EVAL_PBInit
+                0x08001ba8                STM_EVAL_PBGetState
+                0x08001bcc                STM_EVAL_COMInit
+ .text          0x08001c58      0xc14 spy/stm3210c_eval_lcd.o
+                0x08001c88                LCD_SetTextColor
+                0x08001ca4                LCD_SetBackColor
+                0x08001cc0                LCD_WriteRAM
+                0x08001d14                LCD_CtrlLinesConfig
+                0x08001d50                LCD_CtrlLinesWrite
+                0x08001d58                LCD_nCS_StartByte
+                0x08001d98                LCD_WriteRegIndex
+                0x08001e08                LCD_WriteRAM_Prepare
+                0x08001e1c                LCD_WriteReg
+                0x08001e90                LCD_DisplayOff
+                0x08001ea0                LCD_DisplayOn
+                0x08001eb0                LCD_PowerOn
+                0x08001f4c                LCD_SetCursor
+                0x08001f68                LCD_SetDisplayWindow
+                0x08001fc0                LCD_WindowModeDisable
+                0x08001fe4                LCD_WriteRAMWord
+                0x08002008                LCD_DrawCircle
+                0x08002138                LCD_ReadReg
+                0x08002274                LCD_DrawMonoPict
+                0x080022ec                LCD_DrawLine
+                0x08002378                LCD_DrawRect
+                0x080023c0                LCD_DrawChar
+                0x0800243c                LCD_DisplayChar
+                0x08002464                LCD_DisplayString
+                0x080024b4                LCD_ClearLine
+                0x080024c8                LCD_Clear
+                0x08002500                LCD_SPIConfig
+                0x080025a8                LCD_Setup
+                0x08002864                STM3210C_LCD_Init
+ .text          0x0800286c      0xff4 spy/stm3210c_eval_ioe.o
+                0x080028e4                I2C_WriteDeviceRegister
+                0x08002a64                IOE_Reset
+                0x08002a90                IOE_ClearIOITPending
+                0x08002ad0                IOE_ClearGITPending
+                0x08002ae4                IOE_WriteIOPin
+                0x08002b20                I2C_ReadDeviceRegister
+                0x08002d44                IOE_ITOutConfig
+                0x08002d90                IOE_IOEdgeConfig
+                0x08002de8                IOE_IOAFConfig
+                0x08002e18                IOE_TempSens_Config
+                0x08002e78                IOE_TS_Config
+                0x08002f90                IOE_IOITConfig
+                0x08002fc0                IOE_GITConfig
+                0x08002ff0                IOE_GITCmd
+                0x08003014                IOE_IOPinConfig
+                0x08003044                IOE_FnctCmd
+                0x08003074                IOE_ReadID
+                0x08003098                IOE_IsOperational
+                0x080030c0                IOE_Config
+                0x08003250                IOE_GetIOITStatus
+                0x08003268                IOE_GetGITStatus
+                0x08003294                IOE_TempSens_GetData
+                0x08003314                IOE_JoyStickGetState
+                0x08003370                IOE_ReadIOPin
+                0x080033a8                IOE_ITConfig
+                0x08003518                I2C_ReadDataBuffer
+                0x08003748                IOE_TS_GetState
+ .text          0x08003860       0xf0 spy/misc.o
+                0x08003860                NVIC_PriorityGroupConfig
+                0x08003874                NVIC_Init
+                0x080038f8                NVIC_SetVectorTable
+                0x08003910                NVIC_SystemLPConfig
+                0x08003934                SysTick_CLKSourceConfig
+ .text          0x08003950      0x428 spy/stm32f10x_adc.o
+                0x08003950                ADC_DeInit
+                0x080039c4                ADC_Init
+                0x08003a10                ADC_StructInit
+                0x08003a28                ADC_Cmd
+                0x08003a40                ADC_DMACmd
+                0x08003a58                ADC_ITConfig
+                0x08003a70                ADC_ResetCalibration
+                0x08003a7c                ADC_GetResetCalibrationStatus
+                0x08003a84                ADC_StartCalibration
+                0x08003a90                ADC_GetCalibrationStatus
+                0x08003a98                ADC_SoftwareStartConvCmd
+                0x08003ab0                ADC_GetSoftwareStartConvStatus
+                0x08003ab8                ADC_DiscModeChannelCountConfig
+                0x08003acc                ADC_DiscModeCmd
+                0x08003ae4                ADC_RegularChannelConfig
+                0x08003b98                ADC_ExternalTrigConvCmd
+                0x08003bb0                ADC_GetConversionValue
+                0x08003bb8                ADC_GetDualModeConversionValue
+                0x08003bc4                ADC_AutoInjectedConvCmd
+                0x08003bdc                ADC_InjectedDiscModeCmd
+                0x08003bf4                ADC_ExternalTrigInjectedConvConfig
+                0x08003c00                ADC_ExternalTrigInjectedConvCmd
+                0x08003c18                ADC_SoftwareStartInjectedConvCmd
+                0x08003c30                ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x08003c38                ADC_InjectedChannelConfig
+                0x08003ca8                ADC_InjectedSequencerLengthConfig
+                0x08003cbc                ADC_SetInjectedOffset
+                0x08003cd4                ADC_GetInjectedConversionValue
+                0x08003cf4                ADC_AnalogWatchdogCmd
+                0x08003d04                ADC_AnalogWatchdogThresholdsConfig
+                0x08003d0c                ADC_AnalogWatchdogSingleChannelConfig
+                0x08003d18                ADC_TempSensorVrefintCmd
+                0x08003d40                ADC_GetFlagStatus
+                0x08003d4c                ADC_ClearFlag
+                0x08003d54                ADC_GetITStatus
+                0x08003d70                ADC_ClearITPendingBit
+ .text          0x08003d78       0xfc spy/stm32f10x_bkp.o
+                0x08003d78                BKP_DeInit
+                0x08003d8c                BKP_TamperPinLevelConfig
+                0x08003d98                BKP_TamperPinCmd
+                0x08003da4                BKP_ITConfig
+                0x08003db0                BKP_RTCOutputConfig
+                0x08003dcc                BKP_SetRTCCalibrationValue
+                0x08003de8                BKP_WriteBackupRegister
+                0x08003e08                BKP_ReadBackupRegister
+                0x08003e2c                BKP_GetFlagStatus
+                0x08003e3c                BKP_ClearFlag
+                0x08003e50                BKP_GetITStatus
+                0x08003e60                BKP_ClearITPendingBit
+ .text          0x08003e74      0x758 spy/stm32f10x_can.o
+                0x08003e80                CAN_DeInit
+                0x08003ec4                CAN_Init
+                0x08003fb8                CAN_FilterInit
+                0x080040ec                CAN_StructInit
+                0x08004114                CAN_SlaveStartBank
+                0x08004154                CAN_ITConfig
+                0x08004168                CAN_Transmit
+                0x08004244                CAN_TransmitStatus
+                0x080042c0                CAN_CancelTransmit
+                0x080042ec                CAN_FIFORelease
+                0x08004300                CAN_MessagePending
+                0x08004318                CAN_Receive
+                0x080043c0                CAN_DBGFreeze
+                0x080043d8                CAN_Sleep
+                0x080043f4                CAN_WakeUp
+                0x08004424                CAN_GetFlagStatus
+                0x08004430                CAN_ClearFlag
+                0x0800443c                CAN_GetITStatus
+                0x0800451c                CAN_ClearITPendingBit
+ .text          0x080045cc       0x74 spy/stm32f10x_crc.o
+                0x080045cc                CRC_ResetDR
+                0x080045dc                CRC_CalcCRC
+                0x080045ec                CRC_CalcBlockCRC
+                0x0800461c                CRC_GetCRC
+                0x08004628                CRC_SetIDRegister
+                0x08004634                CRC_GetIDRegister
+ .text          0x08004640      0x1e0 spy/stm32f10x_dac.o
+                0x08004640                DAC_DeInit
+                0x0800465c                DAC_Init
+                0x08004690                DAC_StructInit
+                0x080046a0                DAC_Cmd
+                0x080046d4                DAC_DMACmd
+                0x08004708                DAC_SoftwareTriggerCmd
+                0x08004744                DAC_DualSoftwareTriggerCmd
+                0x0800476c                DAC_WaveGenerationCmd
+                0x08004798                DAC_SetChannel1Data
+                0x080047bc                DAC_SetChannel2Data
+                0x080047e0                DAC_SetDualChannelData
+                0x080047f8                DAC_GetDataOutputValue
+ .text          0x08004820       0x48 spy/stm32f10x_dbgmcu.o
+                0x08004820                DBGMCU_GetREVID
+                0x08004830                DBGMCU_GetDEVID
+                0x08004844                DBGMCU_Config
+ .text          0x08004868      0x270 spy/stm32f10x_dma.o
+                0x08004868                DMA_DeInit
+                0x080049e8                DMA_Init
+                0x08004a28                DMA_StructInit
+                0x08004a44                DMA_Cmd
+                0x08004a5c                DMA_ITConfig
+                0x08004a70                DMA_GetCurrDataCounter
+                0x08004a78                DMA_GetFlagStatus
+                0x08004a94                DMA_ClearFlag
+                0x08004aa8                DMA_GetITStatus
+                0x08004ac4                DMA_ClearITPendingBit
+ .text          0x08004ad8      0x124 spy/stm32f10x_exti.o
+                0x08004ad8                EXTI_DeInit
+                0x08004af8                EXTI_Init
+                0x08004b8c                EXTI_StructInit
+                0x08004ba0                EXTI_GenerateSWInterrupt
+                0x08004bb0                EXTI_GetFlagStatus
+                0x08004bc4                EXTI_ClearFlag
+                0x08004bd0                EXTI_GetITStatus
+                0x08004bf0                EXTI_ClearITPendingBit
+ .text          0x08004bfc      0x624 spy/stm32f10x_flash.o
+                0x08004bfc                FLASH_SetLatency
+                0x08004c10                FLASH_HalfCycleAccessCmd
+                0x08004c28                FLASH_PrefetchBufferCmd
+                0x08004c40                FLASH_Unlock
+                0x08004c60                FLASH_Lock
+                0x08004c74                FLASH_GetUserOptionByte
+                0x08004c84                FLASH_GetWriteProtectionOptionByte
+                0x08004c90                FLASH_GetReadOutProtectionStatus
+                0x08004ca0                FLASH_GetPrefetchBufferStatus
+                0x08004cb0                FLASH_ITConfig
+                0x08004cd4                FLASH_GetFlagStatus
+                0x08004cfc                FLASH_ClearFlag
+                0x08004d08                FLASH_GetStatus
+                0x08004d4c                FLASH_WaitForLastOperation
+                0x08004dac                FLASH_UserOptionByteConfig
+                0x08004e20                FLASH_ReadOutProtection
+                0x08004edc                FLASH_EnableWriteProtection
+                0x08004fc4                FLASH_ProgramOptionByteData
+                0x0800501c                FLASH_ProgramHalfWord
+                0x08005060                FLASH_ProgramWord
+                0x080050e4                FLASH_EraseOptionBytes
+                0x0800518c                FLASH_EraseAllPages
+                0x080051d4                FLASH_ErasePage
+ .text          0x08005220      0x510 spy/stm32f10x_fsmc.o
+                0x08005220                FSMC_NORSRAMDeInit
+                0x0800525c                FSMC_NANDDeInit
+                0x08005280                FSMC_PCCARDDeInit
+                0x080052a0                FSMC_NORSRAMInit
+                0x08005374                FSMC_NANDInit
+                0x080053dc                FSMC_PCCARDInit
+                0x0800544c                FSMC_NORSRAMStructInit
+                0x080054bc                FSMC_NANDStructInit
+                0x080054f8                FSMC_PCCARDStructInit
+                0x08005538                FSMC_NORSRAMCmd
+                0x08005564                FSMC_NANDCmd
+                0x08005598                FSMC_PCCARDCmd
+                0x080055c4                FSMC_NANDECCCmd
+                0x080055f8                FSMC_GetECC
+                0x08005610                FSMC_ITConfig
+                0x0800566c                FSMC_GetFlagStatus
+                0x08005698                FSMC_ClearFlag
+                0x080056c8                FSMC_GetITStatus
+                0x08005700                FSMC_ClearITPendingBit
+ .text          0x08005730      0x334 spy/stm32f10x_gpio.o
+                0x08005730                GPIO_DeInit
+                0x0800583c                GPIO_AFIODeInit
+                0x08005858                GPIO_Init
+                0x08005918                GPIO_StructInit
+                0x0800592c                GPIO_ReadInputDataBit
+                0x08005938                GPIO_ReadInputData
+                0x08005940                GPIO_ReadOutputDataBit
+                0x0800594c                GPIO_ReadOutputData
+                0x08005954                GPIO_SetBits
+                0x08005958                GPIO_ResetBits
+                0x0800595c                GPIO_WriteBit
+                0x08005968                GPIO_Write
+                0x0800596c                GPIO_PinLockConfig
+                0x0800597c                GPIO_EventOutputConfig
+                0x0800599c                GPIO_EventOutputCmd
+                0x080059a8                GPIO_PinRemapConfig
+                0x08005a18                GPIO_EXTILineConfig
+                0x08005a58                GPIO_ETH_MediaInterfaceConfig
+ .text          0x08005a64      0x46c spy/stm32f10x_i2c.o
+                0x08005a64                I2C_DeInit
+                0x08005aa8                I2C_Init
+                0x08005ba8                I2C_StructInit
+                0x08005bc8                I2C_Cmd
+                0x08005be8                I2C_DMACmd
+                0x08005c08                I2C_DMALastTransferCmd
+                0x08005c28                I2C_GenerateSTART
+                0x08005c48                I2C_GenerateSTOP
+                0x08005c68                I2C_AcknowledgeConfig
+                0x08005c88                I2C_OwnAddress2Config
+                0x08005ca0                I2C_DualAddressCmd
+                0x08005cc0                I2C_GeneralCallCmd
+                0x08005ce0                I2C_ITConfig
+                0x08005cf8                I2C_SendData
+                0x08005cfc                I2C_ReceiveData
+                0x08005d04                I2C_Send7bitAddress
+                0x08005d14                I2C_ReadRegister
+                0x08005d30                I2C_SoftwareResetCmd
+                0x08005d50                I2C_SMBusAlertConfig
+                0x08005d6c                I2C_TransmitPEC
+                0x08005d8c                I2C_PECPositionConfig
+                0x08005da8                I2C_CalculatePEC
+                0x08005dc8                I2C_GetPEC
+                0x08005dd0                I2C_ARPCmd
+                0x08005df0                I2C_StretchClockCmd
+                0x08005e10                I2C_FastModeDutyCycleConfig
+                0x08005e2c                I2C_GetLastEvent
+                0x08005e3c                I2C_CheckEvent
+                0x08005e54                I2C_GetFlagStatus
+                0x08005e94                I2C_ClearFlag
+                0x08005ea0                I2C_GetITStatus
+                0x08005ec4                I2C_ClearITPendingBit
+ .text          0x08005ed0       0x58 spy/stm32f10x_iwdg.o
+                0x08005ed0                IWDG_WriteAccessCmd
+                0x08005edc                IWDG_SetPrescaler
+                0x08005ee8                IWDG_SetReload
+                0x08005ef4                IWDG_ReloadCounter
+                0x08005f04                IWDG_Enable
+                0x08005f14                IWDG_GetFlagStatus
+ .text          0x08005f28       0xd8 spy/stm32f10x_pwr.o
+                0x08005f28                PWR_DeInit
+                0x08005f44                PWR_BackupAccessCmd
+                0x08005f50                PWR_PVDCmd
+                0x08005f5c                PWR_PVDLevelConfig
+                0x08005f70                PWR_WakeUpPinCmd
+                0x08005f7c                PWR_EnterSTOPMode
+                0x08005fac                PWR_EnterSTANDBYMode
+                0x08005fd8                PWR_GetFlagStatus
+                0x08005fec                PWR_ClearFlag
+ .text          0x08006000      0x53c spy/stm32f10x_rcc.o
+                0x08006000                RCC_DeInit
+                0x08006050                RCC_HSEConfig
+                0x0800609c                RCC_AdjustHSICalibrationValue
+                0x080060b4                RCC_HSICmd
+                0x080060c0                RCC_PLLConfig
+                0x080060d8                RCC_PLLCmd
+                0x080060e4                RCC_PREDIV1Config
+                0x08006100                RCC_PREDIV2Config
+                0x08006114                RCC_PLL2Config
+                0x08006128                RCC_PLL2Cmd
+                0x08006134                RCC_PLL3Config
+                0x08006148                RCC_PLL3Cmd
+                0x08006154                RCC_SYSCLKConfig
+                0x08006168                RCC_GetSYSCLKSource
+                0x08006178                RCC_HCLKConfig
+                0x0800618c                RCC_PCLK1Config
+                0x080061a0                RCC_PCLK2Config
+                0x080061b8                RCC_ITConfig
+                0x080061dc                RCC_OTGFSCLKConfig
+                0x080061e8                RCC_ADCCLKConfig
+                0x080061fc                RCC_I2S2CLKConfig
+                0x08006208                RCC_I2S3CLKConfig
+                0x08006214                RCC_LSEConfig
+                0x08006250                RCC_LSICmd
+                0x0800625c                RCC_RTCCLKConfig
+                0x0800626c                RCC_RTCCLKCmd
+                0x08006278                RCC_GetClocksFreq
+                0x0800639c                RCC_AHBPeriphClockCmd
+                0x080063c0                RCC_APB2PeriphClockCmd
+                0x080063e4                RCC_APB1PeriphClockCmd
+                0x08006408                RCC_AHBPeriphResetCmd
+                0x0800642c                RCC_APB2PeriphResetCmd
+                0x08006450                RCC_APB1PeriphResetCmd
+                0x08006474                RCC_BackupResetCmd
+                0x08006480                RCC_ClockSecuritySystemCmd
+                0x0800648c                RCC_MCOConfig
+                0x08006498                RCC_GetFlagStatus
+                0x080064cc                RCC_WaitForHSEStartUp
+                0x08006508                RCC_ClearFlag
+                0x0800651c                RCC_GetITStatus
+                0x08006530                RCC_ClearITPendingBit
+ .text          0x0800653c      0x188 spy/stm32f10x_rtc.o
+                0x0800653c                RTC_ITConfig
+                0x08006564                RTC_EnterConfigMode
+                0x08006578                RTC_ExitConfigMode
+                0x08006594                RTC_GetCounter
+                0x080065a8                RTC_SetCounter
+                0x080065c8                RTC_SetPrescaler
+                0x080065e8                RTC_SetAlarm
+                0x08006608                RTC_GetDivider
+                0x08006620                RTC_WaitForLastTask
+                0x08006634                RTC_WaitForSynchro
+                0x08006660                RTC_GetFlagStatus
+                0x08006674                RTC_ClearFlag
+                0x08006688                RTC_GetITStatus
+                0x080066b0                RTC_ClearITPendingBit
+ .text          0x080066c4      0x26c spy/stm32f10x_sdio.o
+                0x080066c4                SDIO_DeInit
+                0x080066ec                SDIO_Init
+                0x08006720                SDIO_StructInit
+                0x08006734                SDIO_ClockCmd
+                0x08006740                SDIO_SetPowerState
+                0x08006758                SDIO_GetPowerState
+                0x08006768                SDIO_ITConfig
+                0x0800678c                SDIO_DMACmd
+                0x08006798                SDIO_SendCommand
+                0x080067c8                SDIO_CmdStructInit
+                0x080067d8                SDIO_GetCommandResponse
+                0x080067e8                SDIO_GetResponse
+                0x08006804                SDIO_DataConfig
+                0x08006834                SDIO_DataStructInit
+                0x0800684c                SDIO_GetDataCounter
+                0x08006858                SDIO_ReadData
+                0x08006868                SDIO_WriteData
+                0x08006878                SDIO_GetFIFOCount
+                0x08006884                SDIO_StartSDIOReadWait
+                0x08006890                SDIO_StopSDIOReadWait
+                0x0800689c                SDIO_SetSDIOReadWaitMode
+                0x080068a8                SDIO_SetSDIOOperation
+                0x080068b4                SDIO_SendSDIOSuspendCmd
+                0x080068c0                SDIO_CommandCompletionCmd
+                0x080068cc                SDIO_CEATAITCmd
+                0x080068e4                SDIO_SendCEATACmd
+                0x080068f0                SDIO_GetFlagStatus
+                0x08006904                SDIO_ClearFlag
+                0x08006910                SDIO_GetITStatus
+                0x08006924                SDIO_ClearITPendingBit
+ .text          0x08006930      0x3c0 spy/stm32f10x_spi.o
+                0x08006930                SPI_I2S_DeInit
+                0x080069a4                SPI_Init
+                0x080069e8                I2S_Init
+                0x08006b10                SPI_StructInit
+                0x08006b2c                I2S_StructInit
+                0x08006b44                SPI_Cmd
+                0x08006b64                I2S_Cmd
+                0x08006b84                SPI_I2S_ITConfig
+                0x08006bac                SPI_I2S_DMACmd
+                0x08006bc4                SPI_I2S_SendData
+                0x08006bc8                SPI_I2S_ReceiveData
+                0x08006bd0                SPI_NSSInternalSoftwareConfig
+                0x08006bf0                SPI_SSOutputCmd
+                0x08006c10                SPI_DataSizeConfig
+                0x08006c2c                SPI_TransmitCRC
+                0x08006c38                SPI_CalculateCRC
+                0x08006c58                SPI_GetCRC
+                0x08006c68                SPI_GetCRCPolynomial
+                0x08006c70                SPI_BiDirectionalLineConfig
+                0x08006c8c                SPI_I2S_GetFlagStatus
+                0x08006c98                SPI_I2S_ClearFlag
+                0x08006ca4                SPI_I2S_GetITStatus
+                0x08006cd8                SPI_I2S_ClearITPendingBit
+ .text          0x08006cf0      0xce8 spy/stm32f10x_tim.o
+                0x08006d80                TIM_DeInit
+                0x08006eac                TIM_TimeBaseInit
+                0x08006efc                TIM_OC1Init
+                0x08006f94                TIM_OC2Init
+                0x0800703c                TIM_OC3Init
+                0x080070e0                TIM_OC4Init
+                0x0800716c                TIM_BDTRConfig
+                0x08007190                TIM_TimeBaseStructInit
+                0x080071a4                TIM_OCStructInit
+                0x080071bc                TIM_ICStructInit
+                0x080071d0                TIM_BDTRStructInit
+                0x080071e4                TIM_Cmd
+                0x08007204                TIM_CtrlPWMOutputs
+                0x0800722c                TIM_ITConfig
+                0x08007244                TIM_GenerateEvent
+                0x08007248                TIM_DMAConfig
+                0x08007250                TIM_DMACmd
+                0x08007268                TIM_InternalClockConfig
+                0x0800727c                TIM_ETRConfig
+                0x08007294                TIM_ETRClockMode2Config
+                0x080072a8                TIM_ETRClockMode1Config
+                0x080072c8                TIM_PrescalerConfig
+                0x080072d0                TIM_CounterModeConfig
+                0x080072e4                TIM_SelectInputTrigger
+                0x080072f8                TIM_TIxExternalClockConfig
+                0x0800732c                TIM_ITRxExternalClockConfig
+                0x08007340                TIM_EncoderInterfaceConfig
+                0x0800738c                TIM_ForcedOC1Config
+                0x080073a0                TIM_ForcedOC2Config
+                0x080073b8                TIM_ForcedOC3Config
+                0x080073cc                TIM_ForcedOC4Config
+                0x080073e4                TIM_ARRPreloadConfig
+                0x08007404                TIM_SelectCOM
+                0x08007424                TIM_SelectCCDMA
+                0x08007444                TIM_CCPreloadControl
+                0x08007464                TIM_OC1PreloadConfig
+                0x08007478                TIM_OC2PreloadConfig
+                0x08007490                TIM_OC3PreloadConfig
+                0x080074a4                TIM_OC4PreloadConfig
+                0x080074bc                TIM_OC1FastConfig
+                0x080074d0                TIM_OC2FastConfig
+                0x080074e8                TIM_OC3FastConfig
+                0x080074fc                TIM_OC4FastConfig
+                0x08007514                TIM_ClearOC1Ref
+                0x08007528                TIM_ClearOC2Ref
+                0x0800753c                TIM_ClearOC3Ref
+                0x08007550                TIM_ClearOC4Ref
+                0x08007564                TIM_OC1PolarityConfig
+                0x08007578                TIM_OC1NPolarityConfig
+                0x0800758c                TIM_OC2PolarityConfig
+                0x080075a4                TIM_OC2NPolarityConfig
+                0x080075bc                TIM_OC3PolarityConfig
+                0x080075d4                TIM_OC3NPolarityConfig
+                0x080075ec                TIM_OC4PolarityConfig
+                0x08007604                TIM_CCxCmd
+                0x08007628                TIM_CCxNCmd
+                0x0800764c                TIM_SelectOCxM
+                0x080076b0                TIM_UpdateDisableConfig
+                0x080076d0                TIM_UpdateRequestConfig
+                0x080076f0                TIM_SelectHallSensor
+                0x08007710                TIM_SelectOnePulseMode
+                0x0800772c                TIM_SelectOutputTrigger
+                0x08007748                TIM_SelectSlaveMode
+                0x08007764                TIM_SelectMasterSlaveMode
+                0x08007780                TIM_SetCounter
+                0x08007784                TIM_SetAutoreload
+                0x08007788                TIM_SetCompare1
+                0x0800778c                TIM_SetCompare2
+                0x08007790                TIM_SetCompare3
+                0x08007794                TIM_SetCompare4
+                0x0800779c                TIM_SetIC1Prescaler
+                0x080077b8                TIM_SetIC2Prescaler
+                0x080077d8                TIM_PWMIConfig
+                0x08007840                TIM_SetIC3Prescaler
+                0x0800785c                TIM_SetIC4Prescaler
+                0x0800787c                TIM_ICInit
+                0x0800795c                TIM_SetClockDivision
+                0x0800796c                TIM_GetCapture1
+                0x08007974                TIM_GetCapture2
+                0x0800797c                TIM_GetCapture3
+                0x08007984                TIM_GetCapture4
+                0x0800798c                TIM_GetCounter
+                0x08007994                TIM_GetPrescaler
+                0x0800799c                TIM_GetFlagStatus
+                0x080079a8                TIM_ClearFlag
+                0x080079b4                TIM_GetITStatus
+                0x080079cc                TIM_ClearITPendingBit
+ .text          0x080079d8      0x430 spy/stm32f10x_usart.o
+                0x080079d8                USART_DeInit
+                0x08007a98                USART_Init
+                0x08007b48                USART_StructInit
+                0x08007b64                USART_ClockInit
+                0x08007b8c                USART_ClockStructInit
+                0x08007b9c                USART_Cmd
+                0x08007bbc                USART_ITConfig
+                0x08007bf4                USART_DMACmd
+                0x08007c0c                USART_SetAddress
+                0x08007c28                USART_WakeUpConfig
+                0x08007c44                USART_ReceiverWakeUpCmd
+                0x08007c64                USART_LINBreakDetectLengthConfig
+                0x08007c80                USART_LINCmd
+                0x08007ca0                USART_SendData
+                0x08007cac                USART_ReceiveData
+                0x08007cb8                USART_SendBreak
+                0x08007cc4                USART_SetGuardTime
+                0x08007cd8                USART_SetPrescaler
+                0x08007cec                USART_SmartCardCmd
+                0x08007d0c                USART_SmartCardNACKCmd
+                0x08007d2c                USART_HalfDuplexCmd
+                0x08007d4c                USART_IrDAConfig
+                0x08007d68                USART_IrDACmd
+                0x08007d88                USART_GetFlagStatus
+                0x08007d94                USART_ClearFlag
+                0x08007da0                USART_GetITStatus
+                0x08007df0                USART_ClearITPendingBit
+ .text          0x08007e08       0xac spy/stm32f10x_wwdg.o
+                0x08007e08                WWDG_DeInit
+                0x08007e24                WWDG_SetPrescaler
+                0x08007e38                WWDG_SetWindowValue
+                0x08007e64                WWDG_EnableIT
+                0x08007e74                WWDG_SetCounter
+                0x08007e84                WWDG_Enable
+                0x08007e94                WWDG_GetFlagStatus
+                0x08007ea4                WWDG_ClearFlag
+ .text          0x08007eb4        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+                0x08007eb4                QHsm_top
+ .text          0x08007ebc      0x108 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+                0x08007ebc                QActive_postFIFO
+ .text          0x08007fc4       0xbc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+                0x08007fc4                QActive_subscribe
+ .text          0x08008080      0x110 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+                0x08008080                QF_getVersion
+                0x0800808c                QF_add_
+                0x0800810c                QF_remove_
+ .text          0x08008190       0xc0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+                0x08008190                QF_new_
+ .text          0x08008250       0x88 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+                0x08008250                QF_poolInit
+ .text          0x080082d8       0x10 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+                0x080082d8                QF_psInit
+ .text          0x080082e8      0x108 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+                0x080082e8                QF_publish
+ .text          0x080083f0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .text          0x080083f0      0x158 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+                0x080083f0                QF_tick
+ .text          0x08008548       0xc4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+                0x08008548                QMPool_get
+                0x080085cc                QF_getPoolMargin
+ .text          0x0800860c      0x100 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+                0x0800860c                QMPool_init
+ .text          0x0800870c       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+                0x0800870c                QTimeEvt_ctor
+ .text          0x0800873c       0xbc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+                0x0800873c                QTimeEvt_arm_
+                0x080087e4                QF_noTimeEvtsActive
+ .text          0x080087f8       0xb4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+                0x080087f8                QK_getVersion
+                0x08008800                QF_init
+                0x08008808                QF_stop
+                0x08008810                QF_run
+                0x08008838                QActive_start
+                0x080088a4                QActive_stop
+ .text          0x080088ac      0x134 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+                0x080088ac                QK_schedPrio_
+                0x0800890c                QK_sched_
+ .text          0x080089e0       0xc0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+                0x080089e0                QK_mutexLock
+                0x08008a3c                QK_mutexUnlock
+ .text          0x08008aa0      0xba4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+                0x08008aa0                QS_getVersion
+                0x08008aac                QS_initBuf
+                0x08008abc                QS_filterOn
+                0x08008b00                QS_filterOff
+                0x08008b44                QS_begin
+                0x08008cf0                QS_end
+                0x08008e1c                QS_u8
+                0x08008fbc                QS_u16
+                0x08009230                QS_u32
+ .text          0x08009644      0x8b8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+                0x08009644                QS_u8_
+                0x0800974c                QS_u16_
+                0x0800995c                QS_u32_
+                0x08009d74                QS_str_
+                0x08009e40                QS_str_ROM_
+ .text          0x08009efc       0x5c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+                0x08009efc                QS_getByte
+ .text          0x08009f58      0x23c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+                0x08009f58                QS_str
+                0x0800a078                QS_str_ROM
+ .text          0x0800a194      0x1a8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+                0x0800a194                QHsm_init
+ .text          0x0800a33c      0x664 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+                0x0800a33c                QHsm_dispatch
+ .text          0x0800a9a0      0x17c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+                0x0800a9a0                QActive_get_
+                0x0800aae0                QF_getQueueMargin
+ .text          0x0800ab1c       0x58 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+                0x0800ab1c                QEQueue_init
+ .text          0x0800ab74       0xc8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+                0x0800ab74                QF_gc
+ .text          0x0800ac3c        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .text          0x0800ac3c       0x90 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+                0x0800ac3c                QMPool_put
+ .text          0x0800accc        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .text          0x0800accc        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+                0x0800accc                QEP_getVersion
+ .text          0x0800acd8       0x48 c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+                0x0800acd8                __libc_init_array
+ *(.text*)
+ .text.QK_init  0x0800ad20       0x24 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+                0x0800ad20                QK_init
+ .text.PendSV_Handler
+                0x0800ad44       0x34 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+                0x0800ad44                PendSV_Handler
+ .text.SVC_Handler
+                0x0800ad78        0x4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+                0x0800ad78                SVC_Handler
+ *(.rodata)
+ .rodata        0x0800ad7c       0x84 spy/main.o
+ .rodata        0x0800ae00       0x80 spy/table.o
+                0x0800ae7c                AO_Table
+ .rodata        0x0800ae80      0x114 spy/philo.o
+                0x0800af80                AO_Philo
+ .rodata        0x0800af94       0x1c spy/bsp.o
+ .rodata        0x0800afb0        0xc spy/no_heap.o
+ .rodata        0x0800afbc       0x14 spy/system_stm32f10x.o
+                0x0800afbc                SystemFrequency_APB2Clk
+                0x0800afc0                SystemFrequency_APB1Clk
+                0x0800afc4                SystemFrequency_AHBClk
+                0x0800afc8                SystemFrequency_SysClk
+                0x0800afcc                SystemFrequency
+ .rodata        0x0800afd0       0x5c spy/stm32_eval.o
+                0x0800afd0                GPIO_CLK
+                0x0800afe0                GPIO_PIN
+                0x0800afe8                BUTTON_CLK
+                0x0800aff4                BUTTON_PIN
+                0x0800affc                BUTTON_PORT_SOURCE
+                0x0800b004                BUTTON_PIN_SOURCE
+                0x0800b00c                BUTTON_EXTI_LINE
+                0x0800b014                BUTTON_IRQn
+                0x0800b01c                COM_RX_PIN
+                0x0800b020                COM_TX_PIN
+                0x0800b024                COM_POR_CLK
+                0x0800b028                COM_USART_CLK
+ .rodata        0x0800b02c     0x11d0 spy/stm3210c_eval_lcd.o
+                0x0800b02c                ASCII_Table
+ .rodata        0x0800c1fc        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .rodata        0x0800c204        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .rodata        0x0800c20c       0x10 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .rodata        0x0800c21c        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .rodata        0x0800c224        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .rodata        0x0800c22c        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .rodata        0x0800c238       0xcc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+                0x0800c238                QF_div8Lkup
+                0x0800c27c                QF_invPwr2Lkup
+                0x0800c2c0                QF_pwr2Lkup
+ .rodata        0x0800c304        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .rodata        0x0800c30c        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .rodata        0x0800c314        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .rodata        0x0800c320        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .rodata        0x0800c32c        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .rodata        0x0800c334        0x4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .rodata        0x0800c338        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .rodata        0x0800c340        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .rodata        0x0800c34c        0xc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .rodata        0x0800c358        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .rodata        0x0800c360        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .rodata        0x0800c368      0x100 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+                0x0800c368                QF_log2Lkup
+ .rodata        0x0800c468        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .rodata        0x0800c470       0x18 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+                0x0800c478                QEP_reservedEvt_
+ *(.rodata*)
+ .rodata.str1.4
+                0x0800c488       0x21 spy/table.o
+                                 0x24 (size before relaxing)
+ *fill*         0x0800c4a9        0x3 00
+ .rodata.str1.4
+                0x0800c4ac       0x7a spy/bsp.o
+                                 0x7c (size before relaxing)
+ *fill*         0x0800c526        0x2 00
+ .rodata.str1.4
+                0x0800c528       0x15 spy/startup_stm32f10x_cl.o
+                                 0x18 (size before relaxing)
+ *fill*         0x0800c53d        0x3 00
+ .rodata.str1.4
+                0x0800c540       0x18 spy/stm3210c_eval_lcd.o
+ *(.init)
+ *(.fini)
+                0x0800c558                . = ALIGN (0x4)
+                0x0800c558                _etext = .
+
+.glue_7         0x0800c558        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0800c558        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0800c558        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800c558        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800c558        0x0
+ .iplt          0x00000000        0x0 spy/main.o
+
+.rel.dyn        0x0800c558        0x0
+ .rel.iplt      0x00000000        0x0 spy/main.o
+
+.preinit_array  0x0800c558        0x0
+                0x0800c558                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0800c558                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0800c558        0x0
+                0x0800c558                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x0800c558                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0800c558        0x0
+                0x0800c558                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x0800c558                PROVIDE (__fini_array_end, .)
+
+.data           0x20000000       0x44 load address 0x0800c558
+                0x0800c558                __data_load = LOADADDR (.data)
+                0x20000000                __data_start = .
+ *(.data)
+ .data          0x20000000        0x0 spy/main.o
+ .data          0x20000000        0x0 spy/table.o
+ .data          0x20000000        0x0 spy/philo.o
+ .data          0x20000000        0x0 spy/bsp.o
+ .data          0x20000000        0x0 spy/no_heap.o
+ .data          0x20000000        0x0 spy/startup_stm32f10x_cl.o
+ .data          0x20000000        0x0 spy/system_stm32f10x.o
+ .data          0x20000000       0x24 spy/stm32_eval.o
+                0x20000000                GPIO_PORT
+                0x20000010                BUTTON_PORT
+                0x2000001c                COM_PORT
+                0x20000020                COM_USART
+ .data          0x20000024        0x2 spy/stm3210c_eval_lcd.o
+ *fill*         0x20000026        0x2 00
+ .data          0x20000028        0x4 spy/stm3210c_eval_ioe.o
+                0x20000028                TimeOut
+ .data          0x2000002c        0x0 spy/misc.o
+ .data          0x2000002c        0x0 spy/stm32f10x_adc.o
+ .data          0x2000002c        0x0 spy/stm32f10x_bkp.o
+ .data          0x2000002c        0x0 spy/stm32f10x_can.o
+ .data          0x2000002c        0x0 spy/stm32f10x_crc.o
+ .data          0x2000002c        0x0 spy/stm32f10x_dac.o
+ .data          0x2000002c        0x0 spy/stm32f10x_dbgmcu.o
+ .data          0x2000002c        0x0 spy/stm32f10x_dma.o
+ .data          0x2000002c        0x0 spy/stm32f10x_exti.o
+ .data          0x2000002c        0x0 spy/stm32f10x_flash.o
+ .data          0x2000002c        0x0 spy/stm32f10x_fsmc.o
+ .data          0x2000002c        0x0 spy/stm32f10x_gpio.o
+ .data          0x2000002c        0x0 spy/stm32f10x_i2c.o
+ .data          0x2000002c        0x0 spy/stm32f10x_iwdg.o
+ .data          0x2000002c        0x0 spy/stm32f10x_pwr.o
+ .data          0x2000002c       0x14 spy/stm32f10x_rcc.o
+ .data          0x20000040        0x0 spy/stm32f10x_rtc.o
+ .data          0x20000040        0x0 spy/stm32f10x_sdio.o
+ .data          0x20000040        0x0 spy/stm32f10x_spi.o
+ .data          0x20000040        0x0 spy/stm32f10x_tim.o
+ .data          0x20000040        0x0 spy/stm32f10x_usart.o
+ .data          0x20000040        0x0 spy/stm32f10x_wwdg.o
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .data          0x20000040        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .data          0x20000040        0x1 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+                0x20000040                QK_currPrio_
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .data          0x20000041        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+ .data          0x20000041        0x0 c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+ *(.data*)
+                0x20000044                . = ALIGN (0x4)
+ *fill*         0x20000041        0x3 00
+                0x20000044                __data_end__ = .
+                0x20000044                _edata = __data_end__
+
+.igot.plt       0x20000044        0x0 load address 0x0800c59c
+ .igot.plt      0x00000000        0x0 spy/main.o
+
+.bss            0x20000044      0xb8c load address 0x0800c59c
+                0x20000044                __bss_start__ = .
+ *(.bss)
+ .bss           0x20000044       0xe8 spy/main.o
+ .bss           0x2000012c       0x28 spy/table.o
+ .bss           0x20000154       0xe0 spy/philo.o
+ .bss           0x20000234      0x810 spy/bsp.o
+                0x20000a38                QS_tickPeriod_
+                0x20000a3c                QS_tickTime_
+ .bss           0x20000a44        0x0 spy/no_heap.o
+ .bss           0x20000a44        0x0 spy/startup_stm32f10x_cl.o
+ .bss           0x20000a44        0x0 spy/system_stm32f10x.o
+ .bss           0x20000a44        0x0 spy/stm32_eval.o
+ .bss           0x20000a44        0x2 spy/stm3210c_eval_lcd.o
+ *fill*         0x20000a46        0x2 00
+ .bss           0x20000a48       0x14 spy/stm3210c_eval_ioe.o
+                0x20000a48                TS_State
+ .bss           0x20000a5c        0x0 spy/misc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_adc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_bkp.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_can.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_crc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_dac.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_dbgmcu.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_dma.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_exti.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_flash.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_fsmc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_gpio.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_i2c.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_iwdg.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_pwr.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_rcc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_rtc.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_sdio.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_spi.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_tim.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_usart.o
+ .bss           0x20000a5c        0x0 spy/stm32f10x_wwdg.o
+ .bss           0x20000a5c        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .bss           0x20000a5c        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .bss           0x20000a5c        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .bss           0x20000a5c       0x88 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+                0x20000a5c                QF_active_
+                0x20000ae0                QF_intLockNest_
+ .bss           0x20000ae4        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .bss           0x20000ae4       0x7c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+                0x20000ae4                QF_maxPool_
+                0x20000ae8                QF_pool_
+ .bss           0x20000b60        0x8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+                0x20000b60                QF_subscrList_
+                0x20000b64                QF_maxSignal_
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .bss           0x20000b68        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .bss           0x20000b68        0x4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+                0x20000b68                QF_timeEvtListHead_
+ .bss           0x20000b6c       0x10 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+                0x20000b6c                QK_intNest_
+                0x20000b70                QK_readySet_
+ .bss           0x20000b7c        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .bss           0x20000b7c        0x1 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+                0x20000b7c                QK_ceilingPrio_
+ *fill*         0x20000b7d        0x3 00
+ .bss           0x20000b80       0x34 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+                0x20000b80                QS_ring_
+                0x20000b84                QS_end_
+                0x20000b88                QS_glbFilter_
+                0x20000ba8                QS_seq_
+                0x20000ba9                QS_chksum_
+                0x20000baa                QS_head_
+                0x20000bac                QS_used_
+                0x20000bae                QS_tail_
+                0x20000bb0                QS_full_
+ .bss           0x20000bb4       0x1c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+                0x20000bb4                QS_tickCtr_
+                0x20000bb8                QS_apObj_
+                0x20000bbc                QS_teObj_
+                0x20000bc0                QS_eqObj_
+                0x20000bc4                QS_mpObj_
+                0x20000bc8                QS_aoObj_
+                0x20000bcc                QS_smObj_
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .bss           0x20000bd0        0x0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+ .bss           0x20000bd0        0x0 c:/tools/codesourcery/bin/../lib/gcc/arm-none-eabi/4.6.1/../../../../arm-none-eabi/lib/thumb2\libc.a(lib_a-init.o)
+ *(.bss*)
+ *(COMMON)
+                0x20000bd0                . = ALIGN (0x4)
+                0x20000bd0                _ebss = .
+                0x20000bd0                __bss_end__ = .
+                0x20000bd0                PROVIDE (end, _ebss)
+                0x20000bd0                PROVIDE (_end, _ebss)
+                0x20000bd0                PROVIDE (__end__, _ebss)
+
+.heap           0x20000bd0        0x0 load address 0x0800c59c
+                0x20000bd0                __heap_start__ = .
+                0x20000bd0                . = (. + HEAP_SIZE)
+                0x20000bd0                . = ALIGN (0x4)
+                0x20000bd0                __heap_end__ = .
+
+.stack          0x20000bd0      0x400 load address 0x0800c59c
+                0x20000bd0                __stack_start__ = .
+                0x20000fd0                . = (. + STACK_SIZE)
+ *fill*         0x20000bd0      0x400 00
+                0x20000fd0                . = ALIGN (0x4)
+                0x20000fd0                __c_stack_top__ = .
+                0x20000fd0                __stack_end__ = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(spy/dpp-qk.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x17428
+ .debug_info    0x00000000      0x71e spy/main.o
+ .debug_info    0x0000071e      0x947 spy/table.o
+ .debug_info    0x00001065      0xa5e spy/philo.o
+ .debug_info    0x00001ac3     0x1413 spy/bsp.o
+ .debug_info    0x00002ed6      0x15c spy/no_heap.o
+ .debug_info    0x00003032      0x1d0 spy/startup_stm32f10x_cl.o
+ .debug_info    0x00003202      0x31c spy/system_stm32f10x.o
+ .debug_info    0x0000351e      0xb3c spy/stm32_eval.o
+ .debug_info    0x0000405a      0xb08 spy/stm3210c_eval_lcd.o
+ .debug_info    0x00004b62     0x1146 spy/stm3210c_eval_ioe.o
+ .debug_info    0x00005ca8      0x594 spy/misc.o
+ .debug_info    0x0000623c      0xbf8 spy/stm32f10x_adc.o
+ .debug_info    0x00006e34      0x879 spy/stm32f10x_bkp.o
+ .debug_info    0x000076ad      0xb01 spy/stm32f10x_can.o
+ .debug_info    0x000081ae      0x209 spy/stm32f10x_crc.o
+ .debug_info    0x000083b7      0x4d8 spy/stm32f10x_dac.o
+ .debug_info    0x0000888f      0x162 spy/stm32f10x_dbgmcu.o
+ .debug_info    0x000089f1      0x46a spy/stm32f10x_dma.o
+ .debug_info    0x00008e5b      0x366 spy/stm32f10x_exti.o
+ .debug_info    0x000091c1      0x786 spy/stm32f10x_flash.o
+ .debug_info    0x00009947      0x992 spy/stm32f10x_fsmc.o
+ .debug_info    0x0000a2d9      0x706 spy/stm32f10x_gpio.o
+ .debug_info    0x0000a9df      0xb3f spy/stm32f10x_i2c.o
+ .debug_info    0x0000b51e      0x204 spy/stm32f10x_iwdg.o
+ .debug_info    0x0000b722      0x2e8 spy/stm32f10x_pwr.o
+ .debug_info    0x0000ba0a      0xb11 spy/stm32f10x_rcc.o
+ .debug_info    0x0000c51b      0x466 spy/stm32f10x_rtc.o
+ .debug_info    0x0000c981      0x879 spy/stm32f10x_sdio.o
+ .debug_info    0x0000d1fa      0xa4d spy/stm32f10x_spi.o
+ .debug_info    0x0000dc47     0x1e0e spy/stm32f10x_tim.o
+ .debug_info    0x0000fa55      0x9db spy/stm32f10x_usart.o
+ .debug_info    0x00010430      0x23e spy/stm32f10x_wwdg.o
+ .debug_info    0x0001066e      0x141 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_info    0x000107af      0x5e2 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_info    0x00010d91      0x60c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_info    0x0001139d      0x57c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_info    0x00011919      0x45c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_info    0x00011d75      0x21a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_info    0x00011f8f      0x15c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .debug_info    0x000120eb      0x5f8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_info    0x000126e3       0xe1 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .debug_info    0x000127c4      0x589 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_info    0x00012d4d      0x471 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_info    0x000131be      0x42d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_info    0x000135eb      0x35e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_info    0x00013949      0x5b2 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_info    0x00013efb      0x47e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_info    0x00014379      0x5d3 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_info    0x0001494c      0x302 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_info    0x00014c4e      0x3ae D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_info    0x00014ffc      0x2b8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_info    0x000152b4      0x13d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_info    0x000153f1      0x209 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_info    0x000155fa      0x4a8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_info    0x00015aa2      0x4df D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_info    0x00015f81      0x605 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_info    0x00016586      0x3e4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_info    0x0001696a      0x42e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_info    0x00016d98       0xb3 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .debug_info    0x00016e4b      0x3e5 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .debug_info    0x00017230       0x55 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .debug_info    0x00017285      0x1a3 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_abbrev   0x00000000     0x5266
+ .debug_abbrev  0x00000000      0x15a spy/main.o
+ .debug_abbrev  0x0000015a      0x1a1 spy/table.o
+ .debug_abbrev  0x000002fb      0x1a0 spy/philo.o
+ .debug_abbrev  0x0000049b      0x332 spy/bsp.o
+ .debug_abbrev  0x000007cd       0xb4 spy/no_heap.o
+ .debug_abbrev  0x00000881      0x122 spy/startup_stm32f10x_cl.o
+ .debug_abbrev  0x000009a3      0x123 spy/system_stm32f10x.o
+ .debug_abbrev  0x00000ac6      0x1d1 spy/stm32_eval.o
+ .debug_abbrev  0x00000c97      0x23c spy/stm3210c_eval_lcd.o
+ .debug_abbrev  0x00000ed3      0x28d spy/stm3210c_eval_ioe.o
+ .debug_abbrev  0x00001160      0x14c spy/misc.o
+ .debug_abbrev  0x000012ac      0x1cf spy/stm32f10x_adc.o
+ .debug_abbrev  0x0000147b      0x17c spy/stm32f10x_bkp.o
+ .debug_abbrev  0x000015f7      0x1fa spy/stm32f10x_can.o
+ .debug_abbrev  0x000017f1      0x132 spy/stm32f10x_crc.o
+ .debug_abbrev  0x00001923      0x1b5 spy/stm32f10x_dac.o
+ .debug_abbrev  0x00001ad8       0xe9 spy/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00001bc1      0x174 spy/stm32f10x_dma.o
+ .debug_abbrev  0x00001d35      0x170 spy/stm32f10x_exti.o
+ .debug_abbrev  0x00001ea5      0x20d spy/stm32f10x_flash.o
+ .debug_abbrev  0x000020b2      0x1b2 spy/stm32f10x_fsmc.o
+ .debug_abbrev  0x00002264      0x1d9 spy/stm32f10x_gpio.o
+ .debug_abbrev  0x0000243d      0x194 spy/stm32f10x_i2c.o
+ .debug_abbrev  0x000025d1      0x109 spy/stm32f10x_iwdg.o
+ .debug_abbrev  0x000026da      0x15c spy/stm32f10x_pwr.o
+ .debug_abbrev  0x00002836      0x1d0 spy/stm32f10x_rcc.o
+ .debug_abbrev  0x00002a06      0x19b spy/stm32f10x_rtc.o
+ .debug_abbrev  0x00002ba1      0x1f8 spy/stm32f10x_sdio.o
+ .debug_abbrev  0x00002d99      0x1bd spy/stm32f10x_spi.o
+ .debug_abbrev  0x00002f56      0x22b spy/stm32f10x_tim.o
+ .debug_abbrev  0x00003181      0x1c2 spy/stm32f10x_usart.o
+ .debug_abbrev  0x00003343      0x133 spy/stm32f10x_wwdg.o
+ .debug_abbrev  0x00003476       0xb0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_abbrev  0x00003526      0x13a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_abbrev  0x00003660      0x161 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_abbrev  0x000037c1      0x14c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_abbrev  0x0000390d      0x10b D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_abbrev  0x00003a18       0xdb D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_abbrev  0x00003af3       0xcc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .debug_abbrev  0x00003bbf      0x171 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_abbrev  0x00003d30       0x61 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .debug_abbrev  0x00003d91      0x15a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_abbrev  0x00003eeb      0x11d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_abbrev  0x00004008      0x11d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_abbrev  0x00004125      0x126 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_abbrev  0x0000424b      0x182 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_abbrev  0x000043cd      0x1a7 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_abbrev  0x00004574      0x149 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_abbrev  0x000046bd       0xde D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_abbrev  0x0000479b      0x138 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_abbrev  0x000048d3       0xa3 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_abbrev  0x00004976       0x79 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_abbrev  0x000049ef       0xa5 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_abbrev  0x00004a94      0x12c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_abbrev  0x00004bc0      0x12c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_abbrev  0x00004cec      0x145 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_abbrev  0x00004e31       0xe9 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_abbrev  0x00004f1a      0x103 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_abbrev  0x0000501d       0x61 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .debug_abbrev  0x0000507e       0xf0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .debug_abbrev  0x0000516e       0x12 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .debug_abbrev  0x00005180       0xe6 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_loc      0x00000000     0x8a23
+ .debug_loc     0x00000000       0x4b spy/main.o
+ .debug_loc     0x0000004b      0x426 spy/table.o
+ .debug_loc     0x00000471      0x34b spy/philo.o
+ .debug_loc     0x000007bc      0x21b spy/bsp.o
+ .debug_loc     0x000009d7       0xac spy/no_heap.o
+ .debug_loc     0x00000a83       0x5e spy/startup_stm32f10x_cl.o
+ .debug_loc     0x00000ae1       0x76 spy/system_stm32f10x.o
+ .debug_loc     0x00000b57      0x121 spy/stm32_eval.o
+ .debug_loc     0x00000c78      0x906 spy/stm3210c_eval_lcd.o
+ .debug_loc     0x0000157e      0xcc6 spy/stm3210c_eval_ioe.o
+ .debug_loc     0x00002244      0x130 spy/misc.o
+ .debug_loc     0x00002374      0x8d3 spy/stm32f10x_adc.o
+ .debug_loc     0x00002c47      0x11d spy/stm32f10x_bkp.o
+ .debug_loc     0x00002d64      0x64c spy/stm32f10x_can.o
+ .debug_loc     0x000033b0       0x8f spy/stm32f10x_crc.o
+ .debug_loc     0x0000343f      0x30f spy/stm32f10x_dac.o
+ .debug_loc     0x0000374e       0x1e spy/stm32f10x_dbgmcu.o
+ .debug_loc     0x0000376c      0x142 spy/stm32f10x_dma.o
+ .debug_loc     0x000038ae      0x161 spy/stm32f10x_exti.o
+ .debug_loc     0x00003a0f      0x64d spy/stm32f10x_flash.o
+ .debug_loc     0x0000405c      0x380 spy/stm32f10x_fsmc.o
+ .debug_loc     0x000043dc      0x42d spy/stm32f10x_gpio.o
+ .debug_loc     0x00004809      0x622 spy/stm32f10x_i2c.o
+ .debug_loc     0x00004e2b       0x3d spy/stm32f10x_iwdg.o
+ .debug_loc     0x00004e68       0x97 spy/stm32f10x_pwr.o
+ .debug_loc     0x00004eff      0x64d spy/stm32f10x_rcc.o
+ .debug_loc     0x0000554c      0x1c8 spy/stm32f10x_rtc.o
+ .debug_loc     0x00005714      0x20e spy/stm32f10x_sdio.o
+ .debug_loc     0x00005922      0x461 spy/stm32f10x_spi.o
+ .debug_loc     0x00005d83     0x1347 spy/stm32f10x_tim.o
+ .debug_loc     0x000070ca      0x58f spy/stm32f10x_usart.o
+ .debug_loc     0x00007659       0xda spy/stm32f10x_wwdg.o
+ .debug_loc     0x00007733       0x13 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_loc     0x00007746       0xa3 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_loc     0x000077e9       0x5c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_loc     0x00007845       0x7c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_loc     0x000078c1       0x99 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_loc     0x0000795a       0x7a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_loc     0x000079d4       0xc9 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_loc     0x00007a9d       0x7c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_loc     0x00007b19       0x9c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_loc     0x00007bb5      0x11a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_loc     0x00007ccf       0x5c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_loc     0x00007d2b       0x6f D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_loc     0x00007d9a      0x153 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_loc     0x00007eed       0xbf D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_loc     0x00007fac       0x71 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_loc     0x0000801d      0x1a6 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_loc     0x000081c3      0x1a5 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_loc     0x00008368       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_loc     0x0000839b       0x91 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_loc     0x0000842c       0xe0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_loc     0x0000850c      0x376 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_loc     0x00008882       0x90 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_loc     0x00008912       0x64 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_loc     0x00008976       0x51 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_loc     0x000089c7       0x5c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+
+.debug_aranges  0x00000000      0x790
+ .debug_aranges
+                0x00000000       0x20 spy/main.o
+ .debug_aranges
+                0x00000020       0x20 spy/table.o
+ .debug_aranges
+                0x00000040       0x20 spy/philo.o
+ .debug_aranges
+                0x00000060       0x20 spy/bsp.o
+ .debug_aranges
+                0x00000080       0x20 spy/no_heap.o
+ .debug_aranges
+                0x000000a0       0x20 spy/startup_stm32f10x_cl.o
+ .debug_aranges
+                0x000000c0       0x20 spy/system_stm32f10x.o
+ .debug_aranges
+                0x000000e0       0x20 spy/stm32_eval.o
+ .debug_aranges
+                0x00000100       0x20 spy/stm3210c_eval_lcd.o
+ .debug_aranges
+                0x00000120       0x20 spy/stm3210c_eval_ioe.o
+ .debug_aranges
+                0x00000140       0x20 spy/misc.o
+ .debug_aranges
+                0x00000160       0x20 spy/stm32f10x_adc.o
+ .debug_aranges
+                0x00000180       0x20 spy/stm32f10x_bkp.o
+ .debug_aranges
+                0x000001a0       0x20 spy/stm32f10x_can.o
+ .debug_aranges
+                0x000001c0       0x20 spy/stm32f10x_crc.o
+ .debug_aranges
+                0x000001e0       0x20 spy/stm32f10x_dac.o
+ .debug_aranges
+                0x00000200       0x20 spy/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000220       0x20 spy/stm32f10x_dma.o
+ .debug_aranges
+                0x00000240       0x20 spy/stm32f10x_exti.o
+ .debug_aranges
+                0x00000260       0x20 spy/stm32f10x_flash.o
+ .debug_aranges
+                0x00000280       0x20 spy/stm32f10x_fsmc.o
+ .debug_aranges
+                0x000002a0       0x20 spy/stm32f10x_gpio.o
+ .debug_aranges
+                0x000002c0       0x20 spy/stm32f10x_i2c.o
+ .debug_aranges
+                0x000002e0       0x20 spy/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000300       0x20 spy/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000320       0x20 spy/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000340       0x20 spy/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000360       0x20 spy/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000380       0x20 spy/stm32f10x_spi.o
+ .debug_aranges
+                0x000003a0       0x20 spy/stm32f10x_tim.o
+ .debug_aranges
+                0x000003c0       0x20 spy/stm32f10x_usart.o
+ .debug_aranges
+                0x000003e0       0x20 spy/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000400       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_aranges
+                0x00000420       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_aranges
+                0x00000440       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_aranges
+                0x00000460       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_aranges
+                0x00000480       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_aranges
+                0x000004a0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_aranges
+                0x000004c0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .debug_aranges
+                0x000004e0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_aranges
+                0x00000500       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_aranges
+                0x00000520       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_aranges
+                0x00000540       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_aranges
+                0x00000560       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_aranges
+                0x00000580       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_aranges
+                0x000005a0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_aranges
+                0x000005c0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_aranges
+                0x000005e0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_aranges
+                0x00000600       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_aranges
+                0x00000620       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_aranges
+                0x00000640       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_aranges
+                0x00000660       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_aranges
+                0x00000680       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_aranges
+                0x000006a0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_aranges
+                0x000006c0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_aranges
+                0x000006e0       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_aranges
+                0x00000700       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_aranges
+                0x00000720       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .debug_aranges
+                0x00000740       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .debug_aranges
+                0x00000770       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_line     0x00000000     0x6183
+ .debug_line    0x00000000      0x12e spy/main.o
+ .debug_line    0x0000012e      0x267 spy/table.o
+ .debug_line    0x00000395      0x1e5 spy/philo.o
+ .debug_line    0x0000057a      0x306 spy/bsp.o
+ .debug_line    0x00000880      0x11e spy/no_heap.o
+ .debug_line    0x0000099e       0x7b spy/startup_stm32f10x_cl.o
+ .debug_line    0x00000a19       0xf8 spy/system_stm32f10x.o
+ .debug_line    0x00000b11      0x17c spy/stm32_eval.o
+ .debug_line    0x00000c8d      0x345 spy/stm3210c_eval_lcd.o
+ .debug_line    0x00000fd2      0x3eb spy/stm3210c_eval_ioe.o
+ .debug_line    0x000013bd      0x10d spy/misc.o
+ .debug_line    0x000014ca      0x236 spy/stm32f10x_adc.o
+ .debug_line    0x00001700      0x116 spy/stm32f10x_bkp.o
+ .debug_line    0x00001816      0x267 spy/stm32f10x_can.o
+ .debug_line    0x00001a7d       0xfa spy/stm32f10x_crc.o
+ .debug_line    0x00001b77      0x150 spy/stm32f10x_dac.o
+ .debug_line    0x00001cc7       0xe6 spy/stm32f10x_dbgmcu.o
+ .debug_line    0x00001dad      0x169 spy/stm32f10x_dma.o
+ .debug_line    0x00001f16      0x147 spy/stm32f10x_exti.o
+ .debug_line    0x0000205d      0x20d spy/stm32f10x_flash.o
+ .debug_line    0x0000226a      0x22a spy/stm32f10x_fsmc.o
+ .debug_line    0x00002494      0x1bd spy/stm32f10x_gpio.o
+ .debug_line    0x00002651      0x20d spy/stm32f10x_i2c.o
+ .debug_line    0x0000285e       0xf3 spy/stm32f10x_iwdg.o
+ .debug_line    0x00002951      0x132 spy/stm32f10x_pwr.o
+ .debug_line    0x00002a83      0x249 spy/stm32f10x_rcc.o
+ .debug_line    0x00002ccc      0x136 spy/stm32f10x_rtc.o
+ .debug_line    0x00002e02      0x1b9 spy/stm32f10x_sdio.o
+ .debug_line    0x00002fbb      0x1f5 spy/stm32f10x_spi.o
+ .debug_line    0x000031b0      0x417 spy/stm32f10x_tim.o
+ .debug_line    0x000035c7      0x1f6 spy/stm32f10x_usart.o
+ .debug_line    0x000037bd       0xfe spy/stm32f10x_wwdg.o
+ .debug_line    0x000038bb       0xe0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_line    0x0000399b      0x17d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_line    0x00003b18      0x16c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_line    0x00003c84      0x17b D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_line    0x00003dff      0x15a D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_line    0x00003f59      0x130 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_line    0x00004089      0x103 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .debug_line    0x0000418c      0x17e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_line    0x0000430a       0xa7 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .debug_line    0x000043b1      0x1c4 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_line    0x00004575      0x166 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_line    0x000046db      0x169 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_line    0x00004844      0x110 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_line    0x00004954      0x178 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_line    0x00004acc      0x142 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_line    0x00004c0e      0x18c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_line    0x00004d9a      0x145 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_line    0x00004edf      0x208 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_line    0x000050e7      0x197 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_line    0x0000527e       0xe2 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_line    0x00005360      0x120 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_line    0x00005480      0x1bc D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_line    0x0000563c      0x398 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_line    0x000059d4      0x1ae D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_line    0x00005b82      0x112 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_line    0x00005c94      0x168 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_line    0x00005dfc       0xa7 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .debug_line    0x00005ea3      0x159 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .debug_line    0x00005ffc       0x85 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .debug_line    0x00006081      0x102 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_str      0x00000000     0x66fd
+ .debug_str     0x00000000      0x742 spy/main.o
+                                0x785 (size before relaxing)
+ .debug_str     0x00000742       0xbc spy/table.o
+                                0x7db (size before relaxing)
+ .debug_str     0x000007fe       0xb9 spy/philo.o
+                                0x835 (size before relaxing)
+ .debug_str     0x000008b7      0xa78 spy/bsp.o
+                               0x1242 (size before relaxing)
+ .debug_str     0x0000132f       0x3f spy/no_heap.o
+                                0x134 (size before relaxing)
+ .debug_str     0x0000136e       0xdd spy/startup_stm32f10x_cl.o
+                                0x13b (size before relaxing)
+ .debug_str     0x0000144b      0x11c spy/system_stm32f10x.o
+                                0x23c (size before relaxing)
+ .debug_str     0x00001567      0x26d spy/stm32_eval.o
+                                0xa75 (size before relaxing)
+ .debug_str     0x000017d4      0x367 spy/stm3210c_eval_lcd.o
+                                0x635 (size before relaxing)
+ .debug_str     0x00001b3b      0x417 spy/stm3210c_eval_ioe.o
+                                0xc36 (size before relaxing)
+ .debug_str     0x00001f52       0xe1 spy/misc.o
+                                0x345 (size before relaxing)
+ .debug_str     0x00002033      0x51d spy/stm32f10x_adc.o
+                                0x677 (size before relaxing)
+ .debug_str     0x00002550      0x37f spy/stm32f10x_bkp.o
+                                0x531 (size before relaxing)
+ .debug_str     0x000028cf      0x454 spy/stm32f10x_can.o
+                                0x5ed (size before relaxing)
+ .debug_str     0x00002d23       0x9f spy/stm32f10x_crc.o
+                                0x1b7 (size before relaxing)
+ .debug_str     0x00002dc2      0x1f5 spy/stm32f10x_dac.o
+                                0x323 (size before relaxing)
+ .debug_str     0x00002fb7       0x73 spy/stm32f10x_dbgmcu.o
+                                0x183 (size before relaxing)
+ .debug_str     0x0000302a      0x1ce spy/stm32f10x_dma.o
+                                0x312 (size before relaxing)
+ .debug_str     0x000031f8       0xb8 spy/stm32f10x_exti.o
+                                0x2da (size before relaxing)
+ .debug_str     0x000032b0      0x362 spy/stm32f10x_flash.o
+                                0x4f3 (size before relaxing)
+ .debug_str     0x00003612      0x59a spy/stm32f10x_fsmc.o
+                                0x6ea (size before relaxing)
+ .debug_str     0x00003bac      0x208 spy/stm32f10x_gpio.o
+                                0x485 (size before relaxing)
+ .debug_str     0x00003db4      0x364 spy/stm32f10x_i2c.o
+                                0x5ba (size before relaxing)
+ .debug_str     0x00004118       0xbd spy/stm32f10x_iwdg.o
+                                0x1d8 (size before relaxing)
+ .debug_str     0x000041d5       0xfd spy/stm32f10x_pwr.o
+                                0x237 (size before relaxing)
+ .debug_str     0x000042d2      0x494 spy/stm32f10x_rcc.o
+                                0x6de (size before relaxing)
+ .debug_str     0x00004766      0x175 spy/stm32f10x_rtc.o
+                                0x316 (size before relaxing)
+ .debug_str     0x000048db      0x456 spy/stm32f10x_sdio.o
+                                0x5b7 (size before relaxing)
+ .debug_str     0x00004d31      0x295 spy/stm32f10x_spi.o
+                                0x5c6 (size before relaxing)
+ .debug_str     0x00004fc6      0xad7 spy/stm32f10x_tim.o
+                                0xd59 (size before relaxing)
+ .debug_str     0x00005a9d      0x2fa spy/stm32f10x_usart.o
+                                0x5df (size before relaxing)
+ .debug_str     0x00005d97       0xb9 spy/stm32f10x_wwdg.o
+                                0x1e4 (size before relaxing)
+ .debug_str     0x00005e50       0x4d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+                                0x12c (size before relaxing)
+ .debug_str     0x00005e9d       0x92 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+                                0x70a (size before relaxing)
+ .debug_str     0x00005f2f       0x60 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+                                0x747 (size before relaxing)
+ .debug_str     0x00005f8f       0x58 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+                                0x6d4 (size before relaxing)
+ .debug_str     0x00005fe7       0x83 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+                                0x66f (size before relaxing)
+ .debug_str     0x0000606a       0x3d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+                                0x1aa (size before relaxing)
+ .debug_str     0x000060a7       0x35 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+                                0x158 (size before relaxing)
+ .debug_str     0x000060dc       0x47 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+                                0x704 (size before relaxing)
+ .debug_str     0x00006123       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+                                0x113 (size before relaxing)
+ .debug_str     0x00006143       0x57 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+                                0x6fe (size before relaxing)
+ .debug_str     0x0000619a       0x6d D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+                                0x686 (size before relaxing)
+ .debug_str     0x00006207       0x35 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+                                0x66d (size before relaxing)
+ .debug_str     0x0000623c       0x2f D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+                                0x249 (size before relaxing)
+ .debug_str     0x0000626b       0x49 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+                                0x73b (size before relaxing)
+ .debug_str     0x000062b4       0x7f D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+                                0x28c (size before relaxing)
+ .debug_str     0x00006333       0x49 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+                                0x6f9 (size before relaxing)
+ .debug_str     0x0000637c       0x56 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+                                0x5ea (size before relaxing)
+ .debug_str     0x000063d2       0xce D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+                                0x1c9 (size before relaxing)
+ .debug_str     0x000064a0       0x5b D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+                                0x1b2 (size before relaxing)
+ .debug_str     0x000064fb       0x2b D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+                                0x129 (size before relaxing)
+ .debug_str     0x00006526       0x31 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+                                0x1da (size before relaxing)
+ .debug_str     0x00006557       0x6e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+                                0x6be (size before relaxing)
+ .debug_str     0x000065c5       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+                                0x6c2 (size before relaxing)
+ .debug_str     0x000065f5       0x3f D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+                                0x71a (size before relaxing)
+ .debug_str     0x00006634       0x2e D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+                                0x63e (size before relaxing)
+ .debug_str     0x00006662       0x24 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+                                0x654 (size before relaxing)
+ .debug_str     0x00006686       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+                                 0xf8 (size before relaxing)
+ .debug_str     0x000066a6       0x2b D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+                                0x652 (size before relaxing)
+ .debug_str     0x000066d1       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+                                0x1b0 (size before relaxing)
+
+.comment        0x00000000       0x2b
+ .comment       0x00000000       0x2b spy/main.o
+                                 0x2c (size before relaxing)
+ .comment       0x00000000       0x2c spy/table.o
+ .comment       0x00000000       0x2c spy/philo.o
+ .comment       0x00000000       0x2c spy/bsp.o
+ .comment       0x00000000       0x2c spy/no_heap.o
+ .comment       0x00000000       0x2c spy/startup_stm32f10x_cl.o
+ .comment       0x00000000       0x2c spy/system_stm32f10x.o
+ .comment       0x00000000       0x2c spy/stm32_eval.o
+ .comment       0x00000000       0x2c spy/stm3210c_eval_lcd.o
+ .comment       0x00000000       0x2c spy/stm3210c_eval_ioe.o
+ .comment       0x00000000       0x2c spy/misc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_adc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_bkp.o
+ .comment       0x00000000       0x2c spy/stm32f10x_can.o
+ .comment       0x00000000       0x2c spy/stm32f10x_crc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_dac.o
+ .comment       0x00000000       0x2c spy/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x2c spy/stm32f10x_dma.o
+ .comment       0x00000000       0x2c spy/stm32f10x_exti.o
+ .comment       0x00000000       0x2c spy/stm32f10x_flash.o
+ .comment       0x00000000       0x2c spy/stm32f10x_fsmc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_gpio.o
+ .comment       0x00000000       0x2c spy/stm32f10x_i2c.o
+ .comment       0x00000000       0x2c spy/stm32f10x_iwdg.o
+ .comment       0x00000000       0x2c spy/stm32f10x_pwr.o
+ .comment       0x00000000       0x2c spy/stm32f10x_rcc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_rtc.o
+ .comment       0x00000000       0x2c spy/stm32f10x_sdio.o
+ .comment       0x00000000       0x2c spy/stm32f10x_spi.o
+ .comment       0x00000000       0x2c spy/stm32f10x_tim.o
+ .comment       0x00000000       0x2c spy/stm32f10x_usart.o
+ .comment       0x00000000       0x2c spy/stm32f10x_wwdg.o
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .comment       0x00000000       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 spy/main.o
+ .ARM.attributes
+                0x00000033       0x33 spy/table.o
+ .ARM.attributes
+                0x00000066       0x33 spy/philo.o
+ .ARM.attributes
+                0x00000099       0x33 spy/bsp.o
+ .ARM.attributes
+                0x000000cc       0x33 spy/no_heap.o
+ .ARM.attributes
+                0x000000ff       0x33 spy/startup_stm32f10x_cl.o
+ .ARM.attributes
+                0x00000132       0x33 spy/system_stm32f10x.o
+ .ARM.attributes
+                0x00000165       0x33 spy/stm32_eval.o
+ .ARM.attributes
+                0x00000198       0x33 spy/stm3210c_eval_lcd.o
+ .ARM.attributes
+                0x000001cb       0x33 spy/stm3210c_eval_ioe.o
+ .ARM.attributes
+                0x000001fe       0x33 spy/misc.o
+ .ARM.attributes
+                0x00000231       0x33 spy/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000264       0x33 spy/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000297       0x33 spy/stm32f10x_can.o
+ .ARM.attributes
+                0x000002ca       0x33 spy/stm32f10x_crc.o
+ .ARM.attributes
+                0x000002fd       0x33 spy/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000330       0x33 spy/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000363       0x33 spy/stm32f10x_dma.o
+ .ARM.attributes
+                0x00000396       0x33 spy/stm32f10x_exti.o
+ .ARM.attributes
+                0x000003c9       0x33 spy/stm32f10x_flash.o
+ .ARM.attributes
+                0x000003fc       0x33 spy/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x0000042f       0x33 spy/stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000462       0x33 spy/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000495       0x33 spy/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x000004c8       0x33 spy/stm32f10x_pwr.o
+ .ARM.attributes
+                0x000004fb       0x33 spy/stm32f10x_rcc.o
+ .ARM.attributes
+                0x0000052e       0x33 spy/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000561       0x33 spy/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000594       0x33 spy/stm32f10x_spi.o
+ .ARM.attributes
+                0x000005c7       0x33 spy/stm32f10x_tim.o
+ .ARM.attributes
+                0x000005fa       0x33 spy/stm32f10x_usart.o
+ .ARM.attributes
+                0x0000062d       0x33 spy/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000660       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .ARM.attributes
+                0x00000693       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .ARM.attributes
+                0x000006c6       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .ARM.attributes
+                0x000006f9       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .ARM.attributes
+                0x0000072c       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .ARM.attributes
+                0x0000075f       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .ARM.attributes
+                0x00000792       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .ARM.attributes
+                0x000007c5       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .ARM.attributes
+                0x000007f8       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pwr2.o)
+ .ARM.attributes
+                0x0000082b       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .ARM.attributes
+                0x0000085e       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .ARM.attributes
+                0x00000891       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .ARM.attributes
+                0x000008c4       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .ARM.attributes
+                0x000008f7       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .ARM.attributes
+                0x0000092a       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .ARM.attributes
+                0x0000095d       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .ARM.attributes
+                0x00000990       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .ARM.attributes
+                0x000009c3       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .ARM.attributes
+                0x000009f6       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .ARM.attributes
+                0x00000a29       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .ARM.attributes
+                0x00000a5c       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .ARM.attributes
+                0x00000a8f       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .ARM.attributes
+                0x00000ac2       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .ARM.attributes
+                0x00000af5       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .ARM.attributes
+                0x00000b28       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .ARM.attributes
+                0x00000b5b       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .ARM.attributes
+                0x00000b8e       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_log2.o)
+ .ARM.attributes
+                0x00000bc1       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .ARM.attributes
+                0x00000bf4       0x21 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
+ .ARM.attributes
+                0x00000c15       0x33 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_frame    0x00000000     0x324c
+ .debug_frame   0x00000000       0x34 spy/main.o
+ .debug_frame   0x00000034       0x98 spy/table.o
+ .debug_frame   0x000000cc       0x98 spy/philo.o
+ .debug_frame   0x00000164      0x190 spy/bsp.o
+ .debug_frame   0x000002f4       0x58 spy/no_heap.o
+ .debug_frame   0x0000034c       0x58 spy/startup_stm32f10x_cl.o
+ .debug_frame   0x000003a4       0x24 spy/system_stm32f10x.o
+ .debug_frame   0x000003c8       0xb0 spy/stm32_eval.o
+ .debug_frame   0x00000478      0x33c spy/stm3210c_eval_lcd.o
+ .debug_frame   0x000007b4      0x31c spy/stm3210c_eval_ioe.o
+ .debug_frame   0x00000ad0       0x68 spy/misc.o
+ .debug_frame   0x00000b38      0x280 spy/stm32f10x_adc.o
+ .debug_frame   0x00000db8       0xe0 spy/stm32f10x_bkp.o
+ .debug_frame   0x00000e98      0x184 spy/stm32f10x_can.o
+ .debug_frame   0x0000101c       0x78 spy/stm32f10x_crc.o
+ .debug_frame   0x00001094       0xec spy/stm32f10x_dac.o
+ .debug_frame   0x00001180       0x40 spy/stm32f10x_dbgmcu.o
+ .debug_frame   0x000011c0       0xb8 spy/stm32f10x_dma.o
+ .debug_frame   0x00001278       0x98 spy/stm32f10x_exti.o
+ .debug_frame   0x00001310      0x1e8 spy/stm32f10x_flash.o
+ .debug_frame   0x000014f8      0x160 spy/stm32f10x_fsmc.o
+ .debug_frame   0x00001658      0x168 spy/stm32f10x_gpio.o
+ .debug_frame   0x000017c0      0x230 spy/stm32f10x_i2c.o
+ .debug_frame   0x000019f0       0x70 spy/stm32f10x_iwdg.o
+ .debug_frame   0x00001a60       0xa8 spy/stm32f10x_pwr.o
+ .debug_frame   0x00001b08      0x2b4 spy/stm32f10x_rcc.o
+ .debug_frame   0x00001dbc      0x108 spy/stm32f10x_rtc.o
+ .debug_frame   0x00001ec4      0x20c spy/stm32f10x_sdio.o
+ .debug_frame   0x000020d0      0x1a8 spy/stm32f10x_spi.o
+ .debug_frame   0x00002278      0x658 spy/stm32f10x_tim.o
+ .debug_frame   0x000028d0      0x1ec spy/stm32f10x_usart.o
+ .debug_frame   0x00002abc       0x9c spy/stm32f10x_wwdg.o
+ .debug_frame   0x00002b58       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_top.o)
+ .debug_frame   0x00002b78       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_fifo.o)
+ .debug_frame   0x00002ba4       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_sub.o)
+ .debug_frame   0x00002bd4       0x58 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_act.o)
+ .debug_frame   0x00002c2c       0x34 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_new.o)
+ .debug_frame   0x00002c60       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pool.o)
+ .debug_frame   0x00002c90       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_psini.o)
+ .debug_frame   0x00002cb0       0x38 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_frame   0x00002ce8       0x34 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_tick.o)
+ .debug_frame   0x00002d1c       0x44 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_get.o)
+ .debug_frame   0x00002d60       0x30 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_init.o)
+ .debug_frame   0x00002d90       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_ctor.o)
+ .debug_frame   0x00002dbc       0x3c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qte_arm.o)
+ .debug_frame   0x00002df8       0xa8 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk.o)
+ .debug_frame   0x00002ea0       0x44 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_sched.o)
+ .debug_frame   0x00002ee4       0x40 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_mutex.o)
+ .debug_frame   0x00002f24       0xc0 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs.o)
+ .debug_frame   0x00002fe4       0x98 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_.o)
+ .debug_frame   0x0000307c       0x28 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_byte.o)
+ .debug_frame   0x000030a4       0x50 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qs_str.o)
+ .debug_frame   0x000030f4       0x38 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_frame   0x0000312c       0x38 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_frame   0x00003164       0x44 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qa_get_.o)
+ .debug_frame   0x000031a8       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qeq_init.o)
+ .debug_frame   0x000031d4       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_gc.o)
+ .debug_frame   0x00003200       0x2c D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qmp_put.o)
+ .debug_frame   0x0000322c       0x20 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qep.o)
+
+.debug_ranges   0x00000000       0xb8
+ .debug_ranges  0x00000000       0x48 spy/table.o
+ .debug_ranges  0x00000048       0x18 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qf_pspub.o)
+ .debug_ranges  0x00000060       0x18 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_ini.o)
+ .debug_ranges  0x00000078       0x18 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qhsm_dis.o)
+ .debug_ranges  0x00000090       0x28 D:\qp\qpc/ports/arm-cortex/qk/gnu/spy\libqp_cortex-m3_cs.a(qk_port.o)
